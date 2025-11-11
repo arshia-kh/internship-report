@@ -1,7 +1,7 @@
 # Internship Report (Placeholder)
 
 🏢 **Organization:** Ahvaz Municipality – IT Department  
-📅 **Duration:** Summer 2024 (2–3 months)  
+📅 **Duration:** Summer 2025 (2–3 months)  
 🧠 **Focus:** Python automation and web design support  
 
 ## Tasks
